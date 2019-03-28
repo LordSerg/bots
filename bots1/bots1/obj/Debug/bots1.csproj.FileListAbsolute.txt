@@ -12,3 +12,18 @@ C:\Users\moskalenko_s\Desktop\My games\bots\bots1\bots1\obj\Debug\bots1.Properti
 C:\Users\moskalenko_s\Desktop\My games\bots\bots1\bots1\obj\Debug\bots1.csproj.GenerateResource.Cache
 C:\Users\moskalenko_s\Desktop\My games\bots\bots1\bots1\obj\Debug\bots1.exe
 C:\Users\moskalenko_s\Desktop\My games\bots\bots1\bots1\obj\Debug\bots1.pdb
+D:\My_games\bots\bots1\bots1\bin\Debug\bots1.exe.config
+D:\My_games\bots\bots1\bots1\obj\Debug\bots1.exe
+D:\My_games\bots\bots1\bots1\obj\Debug\bots1.pdb
+D:\My_games\bots\bots1\bots1\bin\Debug\bots1.exe
+D:\My_games\bots\bots1\bots1\bin\Debug\bots1.pdb
+D:\My_games\bots\bots1\bots1\bin\Debug\OpenTK.GLControl.dll
+D:\My_games\bots\bots1\bots1\bin\Debug\OpenTK.dll
+D:\My_games\bots\bots1\bots1\bin\Debug\OpenTK.GLControl.xml
+D:\My_games\bots\bots1\bots1\bin\Debug\OpenTK.pdb
+D:\My_games\bots\bots1\bots1\bin\Debug\OpenTK.xml
+D:\My_games\bots\bots1\bots1\obj\Debug\bots1.csprojResolveAssemblyReference.cache
+D:\My_games\bots\bots1\bots1\obj\Debug\bots1.Form1.resources
+D:\My_games\bots\bots1\bots1\obj\Debug\bots1.Properties.Resources.resources
+D:\My_games\bots\bots1\bots1\obj\Debug\bots1.csproj.GenerateResource.Cache
+D:\My_games\bots\bots1\bots1\bin\Debug\OpenTK.Compatibility.dll
